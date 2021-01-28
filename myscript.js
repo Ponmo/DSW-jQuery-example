@@ -9,4 +9,7 @@ $(document).ready(function() {
 	$("#p1").click(function(){
 		$(".disappear").hide();	
 	});
+	$("p").click(function(){
+		$(this).css("background-color", "lightblue");
+	});
 });
