@@ -12,4 +12,6 @@ img {
 }
 table, th, td {
 	background-color: grey;
+	width: 70%;
+	height: 250px;
 }
