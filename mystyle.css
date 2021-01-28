@@ -15,10 +15,13 @@ th {
 	width: 30px;
 	height: 30px;
 	color: pink;
+	text-decoration: none;
+	text-align: center;
 }
 td {
 	background-color: grey;
 	width: 30px;
 	height: 30px;
 	color: pink;
+	text-align: center;
 }
