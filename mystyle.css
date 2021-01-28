@@ -10,8 +10,18 @@ p{
 img {
 	width: 20%;
 }
-table, th, td {
+table {
 	background-color: grey;
 	width: 50%;
 	height: 130px;
+}
+th {
+	background-color: grey;
+	width: 10%;
+	height: 25px;
+}
+td {
+	background-color: grey;
+	width: 10%;
+	height: 25px;
 }
