@@ -12,4 +12,5 @@ img {
 }
 table, th, td {
 	color: grey;
+	border: collapse;
 }
