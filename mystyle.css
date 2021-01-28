@@ -10,3 +10,6 @@ p{
 img {
 	width: 20%;
 }
+table, th, td {
+	color: grey;
+}
